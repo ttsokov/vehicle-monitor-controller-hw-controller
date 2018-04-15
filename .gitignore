@@ -1,0 +1,66 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Eclipse Core
+.project
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
+
+# Java annotation processor (APT)
+.factorypath
+
+# sbteclipse plugin
+.target
+
+# Code Recommenders
+.recommenders/
+/target/
+
+# Mac OS X
+.DS_Store
+
+.classpath
+.settings/
+target/
+bin/
+node_modules
+node/
+settings.xml
+*.sw[o|p]
+
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*~.nib
+local.properties
+.settings/
+.loadpath
