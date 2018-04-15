@@ -1,2 +1,2 @@
 # vehicle-monitor-controller-hw-controller
-Hardware controller application for vehicle monitor controller project
+Application for the low-level hardware module of the vehicle monitor controller project
